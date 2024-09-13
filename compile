@@ -1,0 +1,9 @@
+-d build
+-s gen
+--module-path libs
+--processor-module-path libs
+--add-modules ALL-MODULE-PATH
+--release 21
+src/Apple.java
+src/AppleDTO.java
+src/AppleMapper.java
